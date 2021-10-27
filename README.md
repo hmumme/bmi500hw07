@@ -18,4 +18,4 @@ System Requirements:
 
 Instructions:
 
-Download the data and code folders in the same directory on your system, then follow the jupyter notebook to perform the analysis. The notebook will create local SQL databases in your repository that can be stored and accessed later. It will produce tables and figures within the notebook to display results of the analysis.
+Download the data and code folders in the same directory on your system, then follow the jupyter notebook to perform the analysis. The notebook will create local SQL databases in your directory that can be stored and accessed later. It will produce tables and figures within the notebook to display results of the analysis.
