@@ -5,6 +5,7 @@ File Descriptions:
 - code/MUMME-BMI500-Fall2021-hw07.ipynb - complete analysis for this assignment. Opens a SQL connection locally and forms databases using MIMIC-III Clinical Database Demo Files (downloaded in data folder)
 - data/D_LABITEMS.csv - from MIMIC-III Clinical Database Demo (https://physionet.org/content/mimiciii-demo/1.4/). Contains the itemids for different laboratory tests contained in the database. We will use this file to search for Acute Kidney Injury (AKI) rleated laboratory tests.
 - data/LABEVENTS.csv - from MIMIC-III Clinical Database Demo. Contains the laboratory tests for all the subjects in the demo. We will use the subject id, time and date, test value, and test id columns from this resource.
+- MUMME-BMI500-Fall2021-hw07.pdf - report for this assignment. Contains the introduction, results, methods, discussion, conclusion, and references for the analysis.
 
 System Requirements:
 - Python version >= 3.8.3
